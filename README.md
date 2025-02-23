@@ -1,20 +1,33 @@
-<h2>🚦 Simple Expert System for Traffic Light Control</h2>
+# 🚦 Simple Expert System for Traffic Light Control
+
 This is a rule-based expert system that simulates a traffic light control system based on traffic density. It adjusts the duration of the green light dynamically using IF-THEN rules, making intelligent decisions for efficient traffic management.
 
-<h2>Features</h2>
-✅ Uses expert system rules for traffic control<br>
-✅ Adjusts green light duration based on traffic density (High/Medium/Low)<br>
-✅ Implements a simple inference mechanism<br>
-✅ Continuously cycles through RED → GREEN → YELLOW → RED
+## Features
+✅ Uses expert system rules for traffic control  
+✅ Adjusts green light duration based on traffic density (High/Medium/Low)  
+✅ Implements a simple inference mechanism  
+✅ Continuously cycles through RED → GREEN → YELLOW → RED  
 
-<h2>How to Run</h2>
-🔹 Clone the repository:<br>
-```bash
-git clone https://github.com/Harriii2/Traffic-Light-Control.git
-cd Traffic-Light-Control
-```<br>
-🔹 Run the script:<br>
-```bash
-python TrafficLight.py
-```<br>
-🔹 Enter traffic density (High, Medium, or Low) when prompted<br>
+## How to Run
+
+1. **Clone the repository:**
+
+    Open a terminal (bash or other terminal) and run:
+    ```bash
+    git clone https://github.com/Harriii2/Traffic-Light-Control.git
+    cd Traffic-Light-Control
+    ```
+
+2. **Run the script:**
+
+    Run the following command to execute the script:
+    ```bash
+    python TrafficLight.py
+    ```
+
+3. **Input the traffic density:**
+
+    When prompted, enter one of the following values for traffic density:
+    - **High**
+    - **Medium**
+    - **Low**
