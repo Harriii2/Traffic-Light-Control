@@ -8,7 +8,13 @@ This is a rule-based expert system that simulates a traffic light control system
 ✅ Continuously cycles through RED → GREEN → YELLOW → RED
 
 <h2>How to Run</h2>
-🔹Clone the repository<br>
-🔹Run the script:<br>
-🔹python traffic_light_expert.py<br>
-🔹Enter traffic density (High, Medium, or Low) when prompted<br>
+🔹 Clone the repository:<br>
+```bash
+git clone https://github.com/Harriii2/Traffic-Light-Control.git
+cd Traffic-Light-Control
+```<br>
+🔹 Run the script:<br>
+```bash
+python TrafficLight.py
+```<br>
+🔹 Enter traffic density (High, Medium, or Low) when prompted<br>
